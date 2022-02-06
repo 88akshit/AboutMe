@@ -1,4 +1,4 @@
-I have 5+ years of experience in developing SAAS products . Am currently working as a senior software engineer in Cisco , prior to it worked with Top Fortune companies like Oracle and Infosys.I basically work as full stack developer delivering end to end feature in the release cycle .My area of expertise involve Javascript (Angular , NodeJs),Python (Django) and Java.
+I have 5+ years of experience in developing SAAS products . Am currently working as a senior software engineer in Cisco , prior to this worked with MNCs like Oracle and Infosys where took the ownership of delivering end to end feature in the release cycle . My area of expertise involve Javascript (Angular , NodeJs),Python (Django) and Java.
 My 5 years of journey involve delivering some great products which are live in production and doing great for their respective companies .
 * Google Analytics / Adobe Analytics plugin for Brightcove  - https://studio.support.brightcove.com/players/configuring-google-analytics-event-tracking.html
 * OTT testing Framework for Proximus  - https://stb-tester.com/#testimonials
